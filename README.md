@@ -31,7 +31,7 @@ npm install
 npm start
 ```
 
-Esto iniciará la aplicación en http://localhost:3000.
+Esto iniciará la aplicación en http://localhost:3001.
 
 ## Uso de la Aplicación 📖
 
